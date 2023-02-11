@@ -1,0 +1,356 @@
+.navbar{
+    margin-left: 1350px;
+
+    text-align: center;
+
+}
+
+.img1{
+    background-image: url(img1.jpg);
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 980px;
+    margin-top: -50px;
+}
+.gril1{
+   font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 700px;
+    font-size: 7rem;
+    color: aliceblue;
+    margin-left: 750px;
+    padding-top: 250px
+}
+.gril2{
+   font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300px;
+    font-size: 3rem;
+    color: aliceblue;
+    margin-left: 850px;
+
+}
+.gril3{
+    background-color: yellow;
+    width: 300px;
+    height:300px;
+    border-radius: 300px;
+    margin-left: 300px;
+    margin-top: -140px  ;
+}
+.gril3 h2{
+   font-family: 'Source Sans Pro', sans-serif;
+    font-size: 6rem;
+    font-weight: 700;
+    justify-content: center;
+    padding-top: 100px;
+    margin-left: 50px;
+
+    }   
+    .gril4{
+      font-family: 'Source Sans Pro', sans-serif;
+        font-weight: 700;
+        margin-top: -90px;
+       margin-left: 80px;
+     }
+     .img2{
+        border: 1px solid;
+        height: 920px;
+        width: 100%;
+        background-image: url(img2.jpg);
+
+     }
+
+     .gril5{
+      font-family: 'Source Sans Pro', sans-serif;
+        font-size: 5rem;
+        font-weight: 700;
+        color: rgb(255, 255, 255);
+        margin-left: 400px;
+        margin-top: 300px;
+     }      
+     .gril6{
+      font-family: 'Source Sans Pro', sans-serif;
+        font-size: 3rem;
+        font-weight:460;
+        color: rgb(255, 255, 255);
+        margin-left: 550px;
+        margin-top: 30px;
+     }
+     .yellow{
+        color: rgb(228, 228, 8);
+     }
+     .img3{
+        border: 1px solid;
+        height: 1080px;
+        width: 100%;
+        background-image: url(img3.jpg);      
+          
+    }
+   
+    .gril7{
+      font-family: 'Source Sans Pro', sans-serif;
+        font-size: 4.5rem;
+        font-weight:700;
+        color: rgb(255, 255, 255);
+        margin-left: 839px;
+        margin-top: 150px;
+        
+     }
+     .gril8{
+      font-family: 'Source Sans Pro', sans-serif ;
+        font-size: 2rem;
+        font-weight:400;
+        color: rgb(255, 255, 255);
+        margin-left: 1000px;
+        margin-top: -30px;
+        
+     }
+     .gril9{
+       color: azure;
+        margin-left:1010px ;
+        font-size: 1.2rem;
+        font-family: 'Source Sans Pro', sans-serif;
+     }
+     .img4{
+        border: 1px solid;
+        height: 1080px;
+        width: 100%; 
+        background-image: url(img4.jpg)  
+       
+     }
+
+     .chik1{
+      font-family: 'Source Sans Pro', sans-serif;
+         font-size: 4.5rem;
+            font-weight:500px;
+            color: rgb(255, 255, 255);
+            margin-left: 230px;
+            
+        }
+        .chik2{
+                color: rgb(255, 255, 255);
+                font-size: 3rem;
+                margin-left: 350px;
+                margin-top: -30px;
+                font-family: 'Source Sans Pro', sans-serif;
+         }
+         .img5{
+            justify-content: space-around;
+            display: flex;
+            
+         }
+      
+          .button{
+            margin-left: 100px;
+            margin-top: 50px;
+            font-family: 'Source Sans Pro', sans-serif;
+            background-color: yellow;
+            font-size: 30px;
+            width: 350px;
+            height: 100px;
+          }
+          .img8{
+            background-position-x: center;
+            border: 1px solid;
+            height: 1080px;
+            width:100%;
+            background-image: url(img8.jpg);      
+              
+        }
+        .img9{
+         border: 1px solid;
+         height: 1080px;
+         width: 100%; 
+         background-image:url(img9.jpg) ; 
+        
+      }
+      .chik3{
+         color: rgb(255, 255, 255);
+         font-size: 1.8rem;
+         margin-left: 109px;
+         margin-top: -10px;
+         font-family: 'Source Sans Pro', sans-serif;
+      }
+      .chik01 {
+         display: block;
+         color: rgb(255, 255, 255);
+         font-size: 1.8rem;
+         margin-top: 400px;
+        margin-left: -350px;
+        font-family: 'Source Sans Pro', sans-serif;
+        
+      }     
+      .chik02 {
+         
+         color: rgb(255, 255, 255);
+            font-size: 1.8rem;
+            
+            margin-top: 400px;
+           margin-left: -300px;
+           font-family: 'Source Sans Pro', sans-serif;
+      } 
+      .beef{
+         display: block;
+         margin-bottom: 150px;
+      }
+      .dol1{
+         color: aliceblue;
+         margin-left: 120px;
+         font-size: 1.8rem;
+      }
+      .dol2{
+         color: aliceblue;
+         margin-left: -350px;
+         font-size: 1.8rem;
+      }
+      .dol3{
+         color: aliceblue;
+         margin-left: -300px;
+         font-size: 1.8rem;
+      }
+      .chik4{
+            
+         color: rgb(255, 255, 255);
+         font-size: 4.5rem;
+         font-family: 'Source Sans Pro', sans-serif;
+          font-weight: 700px;
+          margin-left: 900px;
+          margin-top: 300px;
+       }
+       .chik5{
+            
+         color: rgb(255, 255, 255);
+         font-size: 2.2rem;
+         font-family: 'Source Sans Pro', sans-serif;
+         
+         margin-left: 1050px;
+       }
+       .chik6{
+         background-color: yellow;
+         width: 300px;
+         height:300px;
+         border-radius: 300px;
+         margin-left: 700px;
+     }
+     .chik6 h2{
+      font-size: 6rem;
+      font-weight: 700;
+      justify-content: center;
+      padding-top: 70px;
+      margin-left: 90px;
+      font-family: 'Source Sans Pro', sans-serif;
+  
+      }   
+      .chik7{
+         font-weight: 700;
+         margin-top: -60px;
+        margin-left: 120px;
+        font-family: 'Source Sans Pro', sans-serif;
+      }
+      .img10{
+         border: 1px solid;
+         height: 1080px;
+         width: 100%;
+        background-position-x: center;
+         background-image: url(img10.jpg); 
+      }  
+      .chik8{
+            font-size: 4.5rem;
+         color: rgb(255, 255, 255);
+         font-family: 'Source Sans Pro', sans-serif;
+         font-weight: 700px;
+         margin-left: 200px;
+         margin-top: 100px;
+         
+       }
+       .chik9{
+         font-size: 2.7rem;
+      color: rgb(255, 255, 255);
+      font-family: 'Source Sans Pro', sans-serif;
+      margin-left: 350px;
+    }
+   .fry1{
+      font-size: 1.8rem;
+      color: rgb(255, 255, 255);
+      margin-left:350px;
+   }
+ .image{
+   border: 1px solid;
+   height: 1080px;
+   width: 100%; 
+   background-image: url(img4.jpg)  
+} 
+
+.fry2{
+   font-size: 4.7rem;
+   color: rgb(255, 255, 255);
+   margin-left:250px;
+   font-family: 'Source Sans Pro', sans-serif;
+   font-weight: 700px;
+}
+.fry3{
+   font-size:3rem;
+   color: rgb(255, 255, 255);
+   font-family: 'Source Sans Pro', sans-serif;
+   margin-left: 380px;
+
+}
+.fry4{
+   background-color: yellow;
+   width: 200px;
+   height:200px;
+   border-radius: 200px;
+   margin-left: 400px;
+
+}
+.fry4 img {
+   text-align: center;
+   margin-top: 50px;
+   margin-left: 70px;
+}
+.fry4 h2 {
+   color: black;
+   margin-top:- 80px;
+   margin-left: 50px;
+}
+.container{
+   width: 1000px;
+   height: 100vh;
+   display: flex;
+   margin-top: -500px;
+
+  
+}
+form{
+   flex-direction: column;
+   display: flex;
+   width: 90%;
+   max-width: 500px;
+   border-radius: 10px;
+   padding: 10vw 40vw;
+}
+form input,textarea{
+   
+         border: 1px solid;
+         margin: 10px 0px;
+         padding: 20px;
+         font-size: 15px;
+  
+}
+.file{
+   color: aliceblue;
+   font-style:2.3rem ;
+   font-family: 'Source Sans Pro', sans-serif;
+}
+.file1{
+   color: aliceblue;
+   font-style:2.3rem ;
+   font-family: 'Source Sans Pro', sans-serif;
+}
+
+.file2{
+   color: aliceblue;
+   font-style:2.3rem ;
+   font-family: 'Source Sans Pro', sans-serif;
+}
+
